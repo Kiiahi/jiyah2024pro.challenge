@@ -3,13 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ProJiyahChallenge</title>
+  <title>ProJiyah Challenge</title>
  <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
 <h1>Welcome In!</h1>
 <a href="./about.html">Link</a>
-<body>
 <script src="script.js" defer></script>
 </body>
 <html>
