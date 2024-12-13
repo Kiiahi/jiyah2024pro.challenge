@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ProJiyah Challenge</title>
- <link rel="stylesheet" href="styles.css"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
-<h1>Welcome In!</h1>
-<a href="./about.html">Link</a>
+  <h1>Welcome In!</h1>
+<a href="./about.html">Go to About page</a>
 <script src="script.js" defer></script>
 </body>
-<html>
+</html>
